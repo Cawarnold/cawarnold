@@ -1,6 +1,9 @@
 cawarnold/README.md
 
-### Hi there 👋 !
+### Useful guides:
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 
 <!--
 **Cawarnold/cawarnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
