@@ -1,6 +1,6 @@
 cawarnold/README.md
 
-### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=borda&color=blue)
+### Hi there 👋 !
 
 <!--
 **Cawarnold/cawarnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
