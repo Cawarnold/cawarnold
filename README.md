@@ -1,6 +1,7 @@
 Still learning.. always learning
 
 ### Useful guides:
+- [Github Guide](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 - [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
